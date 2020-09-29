@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/parkings", {data:[{}],fetch:[],mutations:void 0});
